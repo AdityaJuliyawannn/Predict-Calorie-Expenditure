@@ -1,6 +1,6 @@
 # Predict Calorie Expenditure 🤵
 
-This repository contains our solution for the Kaggle competition: **Playground Series - Season 5, Episode 5 (S5E5)**, where the goal is to predict **calorie expenditure** based on various physiological and biometric features.
+This repository contains our solution for the Kaggle competition, where the goal is to predict **calorie expenditure** based on various physiological and biometric features.
 
 ## Background 🧠
 
@@ -57,3 +57,9 @@ The dataset consists of:
    - R² Score
 
 ---
+
+## 📈 Results
+
+| Model              | MAE (val) | RMSLE (val) | Notes                    |
+|--------------------|-----------|-------------|--------------------------|
+| **Final Submission** | —       | **0.05890** | ✅ Best result on public leaderboard |
